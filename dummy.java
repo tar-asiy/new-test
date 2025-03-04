@@ -2,7 +2,7 @@
 import sum.ereignis.*;
 import sum.komponenten.*;
 import sum.werkzeuge.*;
-
+tesz
 /**
  * @author
  * @version
